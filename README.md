@@ -119,17 +119,10 @@ This ensures:
 ---
 
 ## Architecture
+![Architecture diagram](architecture-diagram.png)
 
-
-```![Architecture diagram](architecture-diagram.png)
-```
-
-Networking:
-
-```![Network-architecture](network-architecture.png)
-```
-
----
+### Networking:
+![Network-architecture](network-architecture.png)
 
 ## AWS Services Used
 
@@ -248,10 +241,10 @@ Potential enhancements include:
 ## Screenshots
 
 * ![Website form-submission](screenshots/website-form-submission.png)
-* ![Frontend oss submission2](screenshots/frontend-oss-submission2.png)
+* ![Frontend oos submission2](screenshots/frontend-oos-submission2.png)
 * ![Sns email alert](screenshots/sns-email-alert.png)
 * ![Dynamodb results](screenshots/dynamodb-results.png)
-* ![Lambdavpc config](screenshots/lambdavpc-config.png)
+* ![Lambdavpc config](screenshots/lambda-vpc-config.png)
 * ![Cloudwatch logs](screenshots/cloudwatch-logs.png)
 * ![Nat gateway](screenshots/nat-gateway.png)
 * ![Dynamodb endpoint](screenshots/dynamodb-endpoint.png)
