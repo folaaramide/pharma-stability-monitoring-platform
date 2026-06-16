@@ -122,7 +122,7 @@ This ensures:
 ![Architecture diagram](architecture-diagram.png)
 
 ### Networking:
-![Network-architecture](network-architecture.png)
+![Network-architecture](screenshots/network-architecture.png)
 
 ## AWS Services Used
 
