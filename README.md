@@ -121,12 +121,12 @@ This ensures:
 ## Architecture
 
 
-```architecture-diagram.png
+```![Architecture-diagram](architecture-diagram.png)
 ```
 
 Networking:
 
-```screenshots/network-architecture.png
+```![Network-architecture](network-architecture.png)
 ```
 
 ---
@@ -247,14 +247,14 @@ Potential enhancements include:
 
 ## Screenshots
 
-* screenshots/website-form-submission.png
-* screenshots/frontend-oss-submission2.png
-* screenshots/sns-email-alert.png
-* screenshots/dynamodb-results.png
-* screenshots/lambdavpc-config.png
-* screenshots/cloudwatch-logs.png
-* screenshots/nat-gateway.png
-* screenshots/dynamodb-endpoint.png
+* ![Website-form-submission](website-form-submission.png)
+* ![Frontend-oss-submission2]frontend-oss-submission2.png
+* ![Sns-email-alert](sns-email-alert.png)
+* ![Dynamodb-results](dynamodb-results.png)
+* ![Lambdavpc-config](lambdavpc-config.png)
+* ![Cloudwatch-logs](cloudwatch-logs.png)
+* ![Nat-gateway](nat-gateway.png)
+* ![Dynamodb-endpoint](dynamodb-endpoint.png)
 
 ---
 
