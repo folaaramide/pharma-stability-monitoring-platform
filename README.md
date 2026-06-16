@@ -120,69 +120,13 @@ This ensures:
 
 ## Architecture
 
-Add architecture diagram here.
 
-Example:
-
-```text
-Frontend
-
-↓
-
-API Gateway
-
-↓
-
-Lambda (Private Subnets)
-
-↓
-
-DynamoDB
-
-↓
-
-SNS Email Alerts
+```architecture-diagram.png
 ```
 
 Networking:
 
-```text
-Internet
-
-↓
-
-Internet Gateway
-
-↓
-
-Public Subnet
-
-↓
-
-NAT Gateway
-
-↓
-
-Private Subnet A
-
-↓
-
-Lambda
-
-↓
-
-DynamoDB Endpoint
-
-↓
-
-DynamoDB
-
-
-Private Subnet B
-
-↓
-
-Lambda
+```screenshots/network-architecture.png
 ```
 
 ---
@@ -303,17 +247,14 @@ Potential enhancements include:
 
 ## Screenshots
 
-Add screenshots for:
-
-* Website submission form
-* Successful OOS submission
-* SNS email alert
-* DynamoDB tables
-* Lambda VPC configuration
-* CloudWatch logs
-* VPC Resource Map
-* NAT Gateway
-* DynamoDB Endpoint
+* screenshots/website-form-submission.png
+* screenshots/frontend-oss-submission2.png
+* screenshots/sns-email-alert.png
+* screenshots/dynamodb-results.png
+* screenshots/lambdavpc-config.png
+* screenshots/cloudwatch-logs.png
+* screenshots/nat-gateway.png
+* screenshots/dynamodb-endpoint.png
 
 ---
 
