@@ -1,5 +1,5 @@
 const API_URL =
-"https://o8w7n53k12.execute-api.eu-west-2.amazonaws.com/submit";
+"https://lifvk7dmxg.execute-api.eu-west-2.amazonaws.com/submit";
 
 document.querySelector("button").addEventListener("click", submitResult);
 
